@@ -20,6 +20,11 @@ body {
   border-radius: 10px;
   border-color: #006a50;
 }
+.navication-btn:hover {
+  background-color: #5490f5;
+  color: white;
+  cursor: pointer;
+}
 .banner-section {
   display: flex;
   justify-content: space-between;
@@ -47,6 +52,10 @@ body {
   padding: 17px 34px;
   border: none;
   border-radius: 10px;
+}
+.banner-btn:hover {
+  background-color: red;
+  cursor: pointer;
 }
 /* main-section */
 /* The Vision of Future-section */
@@ -79,6 +88,10 @@ body {
   border: none;
   border-radius: 5px;
 }
+.item1-btn:hover {
+  background-color: #006a50;
+  cursor: pointer;
+}
 /* item-2 */
 .item-2 {
   padding: 32px;
@@ -97,6 +110,10 @@ body {
   border: none;
   border-radius: 5px;
 }
+.item2-btn:hover {
+  background-color: brown;
+  cursor: pointer;
+}
 /* item-3 */
 .item-3 {
   padding: 32px;
@@ -114,6 +131,10 @@ body {
   padding: 11px 20px;
   border: none;
   border-radius: 5px;
+}
+.item3-btn:hover {
+  background-color: yellowgreen;
+  cursor: pointer;
 }
 /* text-card */
 .section-text {
@@ -160,6 +181,10 @@ body {
   border-radius: 5px;
   margin: 15px 0;
 }
+.news-btn:hover {
+  background-color: darkcyan;
+  cursor: pointer;
+}
 /* donate-section */
 .donate {
   margin: 30px 160px;
@@ -183,6 +208,10 @@ body {
   list-style: none;
   text-align: center;
 }
+.donare-btn1:hover {
+  background-color: aqua;
+  cursor: pointer;
+}
 .donare-btn2 {
   font-size: 40px;
   font-weight: bold;
@@ -191,6 +220,10 @@ body {
   border-radius: 10px;
   list-style: none;
   text-align: center;
+}
+.donare-btn2:hover {
+  background-color: chartreuse;
+  cursor: pointer;
 }
 .donare-btn3 {
   font-size: 40px;
@@ -201,6 +234,10 @@ body {
   list-style: none;
   text-align: center;
 }
+.donare-btn3:hover {
+  background-color: darkorchid;
+  cursor: pointer;
+}
 .donare-btn4 {
   font-size: 40px;
   font-weight: bold;
@@ -210,7 +247,9 @@ body {
   list-style: none;
   text-align: center;
 }
-
+.donare-btn4:hover{
+  background-color: green;
+}
 .input-1 {
   margin: 20px 0;
   padding: 20px;
@@ -257,7 +296,7 @@ body {
   color: white;
 }
 /* footer-section */
-.footer{
+.footer {
   background-color: white;
   padding: 80px 100px;
   margin: 40px 160px;
@@ -270,6 +309,6 @@ body {
 .footer-icon {
   text-align: center;
 }
-.footer-img{
+.footer-img {
   margin: 0 20px;
 }
