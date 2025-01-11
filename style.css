@@ -253,6 +253,7 @@ body {
 }
 .donare-btn4:hover {
   background-color: green;
+  cursor: pointer;
 }
 .input-1 {
   margin: 20px 0;
