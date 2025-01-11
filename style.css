@@ -1,0 +1,257 @@
+body {
+  background-color: #f1f1f3;
+}
+/* header-section */
+.navication-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 25px 160px;
+}
+.navication-heading {
+  font-size: 32px;
+  font-weight: bold;
+}
+.navication-btn {
+  color: #006a50;
+  font-size: 18px;
+  font-weight: 700;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #006a50;
+}
+.banner-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 160px 80px 160px;
+  background-color: #c6e4d6;
+  padding: 117px 49px;
+  border-radius: 20px;
+}
+.banner-title {
+  font-size: 24px;
+  font-weight: 700px;
+  color: #0e0e0e;
+}
+.banner-text {
+  font-size: 56px;
+  font-weight: bold;
+  color: #0e0e0e;
+}
+.banner-btn {
+  font-size: 18px;
+  font-weight: 700;
+  color: #ffffff;
+  background-color: #006a50;
+  padding: 17px 34px;
+  border: none;
+  border-radius: 10px;
+}
+/* main-section */
+/* The Vision of Future-section */
+.future-cantain {
+  margin: 32px 160px;
+}
+.future-title {
+  font-size: 40px;
+  font-weight: bold;
+}
+.card-1 {
+  display: flex;
+  gap: 24px;
+}
+/* item-1 */
+.item-1 {
+  padding: 32px;
+  background-color: #d8e3f4;
+  border-radius: 10px;
+}
+.item1-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.item1-btn {
+  color: #ffffff;
+  background-color: #5490f5;
+  font-weight: 700;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 5px;
+}
+/* item-2 */
+.item-2 {
+  padding: 32px;
+  background-color: #c6e4d6;
+  border-radius: 10px;
+}
+.item2-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.item2-btn {
+  color: #ffffff;
+  background-color: #006a50;
+  font-weight: 700;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 5px;
+}
+/* item-3 */
+.item-3 {
+  padding: 32px;
+  background-color: #f7ebcf;
+  border-radius: 10px;
+}
+.item3-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+.item3-btn {
+  color: #ffffff;
+  background-color: #ffc239;
+  font-weight: 700;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 5px;
+}
+/* text-card */
+.section-text {
+  margin: 24px 160px;
+}
+.text-item {
+  padding: 24px 48px;
+  background: white;
+  border-radius: 10px;
+}
+.text-pera {
+  background-image: url("./assets/quote-bg.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+/* recent-news */
+.recent-news-heading {
+  font-size: 40px;
+  font-weight: bold;
+}
+/* news-card */
+.recent-news {
+  margin: 24px 160px;
+}
+.news-card1 {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  gap: 50px;
+  border-radius: 10px;
+  margin: 40px 0;
+  padding: 48px;
+}
+.news-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+.news-btn {
+  color: #ffffff;
+  background-color: #006a50;
+  font-weight: 700;
+  padding: 11px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 15px 0;
+}
+/* donate-section */
+.donate {
+  margin: 30px 160px;
+}
+.donate-heading {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.donate-card {
+  display: flex;
+  gap: 40px;
+  margin-left: 80px;
+}
+.donare-btn1 {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: white;
+  padding: 40px;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+}
+.donare-btn2 {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: rgb(202, 164, 164);
+  padding: 40px;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+}
+.donare-btn3 {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: rgb(39, 219, 99);
+  padding: 40px;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+}
+.donare-btn4 {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: yellow;
+  padding: 40px;
+  border-radius: 10px;
+  list-style: none;
+  text-align: center;
+}
+
+.input-1 {
+  margin: 20px 0;
+  padding: 20px;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+  text-align: center;
+}
+.input-btn {
+  text-align: center;
+}
+/* Subscribe-section */
+.subscribe{
+    margin: 70px 160px;
+    background-color:#C6E4D6 ;
+    padding: 80px 100px ;
+}
+.Subscribe-title {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.subscribe-pera {
+  text-align: center;
+}
+.subscribe-input{
+    text-align: center;
+}
+.input-2 {
+  margin: 20px 0;
+  padding: 20px;
+  width: 40%;
+  border-radius: 10px 0 0 10px;
+  border: none;
+}
+.subscribe-btn{
+    margin: 20px 0;
+    margin-left: -10px;
+  padding: 20px;
+  width: 20%;
+  border-radius: 0px 10px 10px 0;
+  border: none; background-color: #006a50;
+  color: white;
+}
